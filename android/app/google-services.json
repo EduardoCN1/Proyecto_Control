@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386393603768",
+    "project_id": "control-acceso-67c92",
+    "storage_bucket": "control-acceso-67c92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386393603768:android:b368e875f338d408f8be4d",
+        "android_client_info": {
+          "package_name": "com.control.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4beX80Zvc5hRORHvgUcaof6bBMkdjkOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
